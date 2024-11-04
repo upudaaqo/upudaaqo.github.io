@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upudaaqo.github.io/GPU/sitemap_index.txt
+Sitemap: https://upudaaqo.github.io/Nfr/sitemap_index.txt
+Sitemap: https://upudaaqo.github.io/WOe/sitemap_index.txt
+Sitemap: https://upudaaqo.github.io/fZV/sitemap_index.txt
